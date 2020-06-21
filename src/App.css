@@ -13,6 +13,12 @@
   }
 }
 
+h1{
+  font-family: 'ZCOOL KuaiLe', cursive;
+  font-size: 82px;
+  color: #da2863;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
